@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:24:48 +0800] "GET /travel/route/pageQuery?cid=5&currentPage=1&rname=%E8%A5%BF%E5%AE%89 HTTP/1.1" 200 - http-bio-80-exec-1 2003
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:45 +0800] "GET /travel/header.html HTTP/1.1" 304 - http-bio-80-exec-5 7
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:45 +0800] "GET /travel/js/getParameter.js HTTP/1.1" 304 - http-bio-80-exec-6 3
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:46 +0800] "GET /travel/user/findUser HTTP/1.1" 200 4 http-bio-80-exec-7 510
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:46 +0800] "GET /travel/category/findAll HTTP/1.1" 200 247 http-bio-80-exec-4 652
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:50 +0800] "GET /travel/route_list.html?cid=5&currentPage=1&rname=%E8%A5%BF%E5%AE%89 HTTP/1.1" 304 - http-bio-80-exec-9 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:52 +0800] "GET /travel/user/findUser HTTP/1.1" 200 4 http-bio-80-exec-10 1
+0:0:0:0:0:0:0:1 - - [20/Jul/2019:12:30:52 +0800] "GET /travel/category/findAll HTTP/1.1" 200 247 http-bio-80-exec-8 20
